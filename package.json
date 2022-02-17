@@ -1,0 +1,20 @@
+{
+  "name": "jsreport-extension-example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "dependencies": {
+    "@babel/core": "^7.17.2",
+    "@babel/preset-react": "^7.16.7",
+    "babel-loader": "^8.2.3",
+    "express": "^4.17.2",
+    "html-webpack-plugin": "^5.5.0",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "webpack": "^5.68.0",
+    "webpack-dev-middleware": "^5.3.1"
+  }
+}
